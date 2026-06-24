@@ -1,0 +1,10 @@
+[   
+    {"name": "watch", "price": 1500, "category": "accessories"},
+    {"name": "bag", "price": 800, "category": "accessories"},
+    {"name": "phone", "price": 25000, "category": "electronics"},
+    {"name": "earbuds", "price": 2500, "category": "electronics"},
+    {"name": "laptop", "price": 60000, "category": "electronics"},
+    {"name": "bottle", "price": 40, "category": "home"},
+    {"name": "basket", "price": 100, "category": "home"},
+    {"name": "fridge", "price": 40000, "category": "appliances"}
+]
